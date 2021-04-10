@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![EuerYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuerYou&count_private=true&show_icons=true&bg_color=383e4a&text_color=5eafef&title_color=ad78dd&icon_color=0c7d9d)](https://github.com/anuraghazra/github-readme-stats)
-[![用的最多的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=EuerYou)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuerYou)]()
 
