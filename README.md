@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### It's EuerYou 👋
+### 这里是尤尔尤，一个在努力学习的前端同学
 <!--
 **EuerYou/EuerYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![EuerYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuerYou)](https://github.com/anuraghazra/github-readme-stats)
+[![EuerYou's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuerYou&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
