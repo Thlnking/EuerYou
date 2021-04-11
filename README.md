@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![](https://github-readme-stats.vercel.app/api?username=EuerYou&count_private=true&hide_title=true&show_icons=true&bg_color=90deg,C9D6FF,E2E2E2&text_color=5eafef&title_color=ad78dd&icon_color=0c7d9d)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuerYou&card_width=500&hide_title=false&bg_color=180deg,E2E2E2,C9D6FF&text_color=5eafef)](https://github.com/EuerYou/GourdMall)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuerYou&card_width=450&hide_title=false&bg_color=180deg,E2E2E2,C9D6FF&text_color=5eafef)](https://github.com/EuerYou/GourdMall)
